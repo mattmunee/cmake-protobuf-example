@@ -1,7 +1,7 @@
 CMake Protobuf Example
 ======================
 
-Minimal example of using CMake to manage C++ project with protobuf.
+Minimal example of using CMake to manage C++ project with protobufs.
 
 Build
 ======================
